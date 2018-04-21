@@ -1,0 +1,11 @@
+item_id,"product_name","department_name",price,stock_quantity
+1,"hot dog","food",3.5000,30
+2,"carrot","food",1.0000,45
+3,"biscuit","food",2.0000,30
+4,"can of beans","food",2.0000,20
+5,"turkey","food",5.0000,30
+6,"waffle","food",2.5000,25
+7,"donut","food",1.0000,50
+8,"banana","food",1.5000,25
+9,"can of pickles","food",3.0000,40
+10,"pepitas","food",1.0000,30
